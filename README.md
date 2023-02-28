@@ -27,6 +27,18 @@ Conocer la forma en la que el circuito integrado LM386 puede amplificar señales
 ![image](https://user-images.githubusercontent.com/116677175/221889067-44b88cd0-692d-4607-9d54-dfdc1153bd46.png)
 
 3. EXPLICACION DEL PROCEDIMIENTO
+
+Materiales que se usaron: 
+
+*Un circuito Integrado LM386.
+*Un potenciometro de 10k.
+*Un condensador de 220 uF a 16v.
+*Una batería de 9v. 
+*Un cable plug.
+*Un protoboard.
+*Un parlante.
+*Cables para la conexión en el protoboard.
+
                                   ******* Explicacion de los elementos del circuito. *******    
 Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
 
@@ -41,6 +53,12 @@ El conector de audio analógico (plug en inglés para señalar al conector macho
 Mediante el diagrama se procede a armar :
 
 ![image](https://user-images.githubusercontent.com/116677175/221889479-cd4aab18-a77e-4ce8-bb4e-42d965e4fbd5.png)
+
+Circuito Armado
+
+![WhatsApp Image 2023-02-28 at 10 13 33](https://user-images.githubusercontent.com/116677175/221896131-365a74d3-80e3-4f2c-a144-ed5148a61c0d.jpeg)
+
+![WhatsApp Image 2023-02-28 at 10 15 09](https://user-images.githubusercontent.com/116677175/221896262-b1c0463f-6102-4226-8f18-2b077b0f63c0.jpeg)
 
 4. RESULTADOS
 El presente circuito funciona de la siguente manera, tiene una alimentacion que va conectada al potenciometro y de ahi a las entradas de nuestro integrado que hace que tengamos salida de audio y entrada para poder tener nuestro mini reproductor de audio.
