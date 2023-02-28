@@ -90,11 +90,11 @@ Se puede concluir que las bocinas o parlantes son dispositivos transductores que
 
 7. RECOMENDACIONES
 
-Es importante utilizar la batería correcta al implementar el circuito, ya que si se utiliza una batería con un voltaje menor al requerido, puede afectar la calidad del sonido y producir interferencias.
+ 1.Es importante utilizar la batería correcta al implementar el circuito, ya que si se utiliza una batería con un voltaje menor al requerido, puede afectar la calidad del sonido y producir interferencias.
 
-Es importante revisar el estado de los cables plug al conectarlos, ya que si están dañados, la calidad de la señal de audio puede verse afectada y también el sonido emitido por el parlante.
+ 2.Es importante revisar el estado de los cables plug al conectarlos, ya que si están dañados, la calidad de la señal de audio puede verse afectada y también el sonido emitido por el parlante.
 
-Es crucial conectar correctamente los cables en las posiciones del integrado, ya que una mala conexión puede impedir que el circuito funcione adecuadamente.
+ 3.Es crucial conectar correctamente los cables en las posiciones del integrado, ya que una mala conexión puede impedir que el circuito funcione adecuadamente.
 
 8. BIBLIOGRAFIA
 
