@@ -72,6 +72,8 @@ El presente circuito funciona de la siguente manera, tiene una alimentacion que 
 
 5. VIDEO
 
+https://youtu.be/Qm7slzd7IPs
+
 6. CONCLUSIONES
 
 Aprendimos las características y la funcion que tiene cada pin en el amplificador LM386.
