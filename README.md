@@ -31,12 +31,19 @@ Conocer la forma en la que el circuito integrado LM386 puede amplificar señales
 Materiales que se usaron: 
 
 *Un circuito Integrado LM386.
+
 *Un potenciometro de 10k.
+
 *Un condensador de 220 uF a 16v.
+
 *Una batería de 9v. 
+
 *Un cable plug.
+
 *Un protoboard.
+
 *Un parlante.
+
 *Cables para la conexión en el protoboard.
 
                                   ******* Explicacion de los elementos del circuito. *******    
